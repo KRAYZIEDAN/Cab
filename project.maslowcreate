@@ -1,0 +1,24 @@
+{
+    "molecules": [
+        {
+            "atomType": "Molecule",
+            "name": "Cab",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 682812,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 2510,
+                    "y": 322,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        }
+    ]
+}
